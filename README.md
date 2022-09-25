@@ -15,3 +15,7 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 ## Results: 
 ![alt text](https://github.com/santiagocy6/Bikesharing/blob/main/Trip%20duration%20by%20usage.png)
+![alt text](https://github.com/santiagocy6/Bikesharing/blob/main/Trip%20duration%20by%20gender.png)
+![alt text](https://github.com/santiagocy6/Bikesharing/blob/main/Number%20of%20trips.png)
+![alt text](https://github.com/santiagocy6/Bikesharing/blob/main/Number%20of%20trips%20by%20gender.png)
+![alt text](https://github.com/santiagocy6/Bikesharing/blob/main/Number%20of%20trips%20by%20usertype.png)
